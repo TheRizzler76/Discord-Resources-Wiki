@@ -30,6 +30,6 @@ description: Official servers owned by Discord.
 ## Discord Safety
 
 > **Description:** Currently under construction.  <br/>
-**Link:** [Discord Safety](https://discord.gg/safety)
+**Link:** [Discord Safety](amognus)
 
 @gg/safety
